@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SimpleDictionary" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="colorPrimary">@color/button_color</item>
+        <item name="colorPrimaryVariant">@color/button_color</item>
+        <item name="colorAccent">@color/fab_color</item>
+    </style>
+</resources>
